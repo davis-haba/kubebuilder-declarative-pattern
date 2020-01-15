@@ -1,4 +1,4 @@
-module sigs.k8s.io/kubebuilder-declarative-pattern/examples/dashboard-operator
+module github.com/davis-haba/kubebuilder-declarative-pattern/examples/dashboard-operator
 
 go 1.12
 
